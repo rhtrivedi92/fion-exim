@@ -23,11 +23,11 @@
         <nav class="main-header__nav main-menu">
           <ul class="main-menu__list">
             <li>
-              <a href="index.html">Home</a>
+              <router-link to="/">Home</router-link>
             </li>
 
             <li>
-              <a href="about.html">About</a>
+              <router-link to="/about">About Us</router-link>
             </li>
 
             <li>

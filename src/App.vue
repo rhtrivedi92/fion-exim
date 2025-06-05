@@ -7,9 +7,6 @@ import MainSlider from './components/MainSlider.vue'
   <div class="custom-cursor__cursor"></div>
   <div class="custom-cursor__cursor-two"></div>
 
-  <div class="preloader">
-    <div class="preloader__image" style="background-image: url(/images/loader.png)"></div>
-  </div>
   <div class="page-wrapper">
     <header class="main-header main-header--three sticky-header sticky-header--normal">
       <Header />
